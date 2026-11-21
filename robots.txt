@@ -15,4 +15,4 @@ Allow: /
 User-agent: ChatGPT-User
 Allow: /
 
-Sitemap: https://ayushvjain3108.github.io/google-pixel-referrals/sitemap.xml
+Sitemap: https://ayushvjain3108.github.io/perkstack/sitemap.xml
