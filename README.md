@@ -1,28 +1,149 @@
 
-# PixelPerks — Google Store Referral Codes
+# PerkStack
 
-PixelPerks is a free, responsive static website that lists
-Google Store referral codes for eligible Google Pixel purchases.
+**PerkStack** is an independent referral directory that brings together referral offers for credit cards, shopping, wireless services, fitness, food delivery, and rides.
 
-The website is designed to make referral codes accessible
-to search engines and AI assistants such as ChatGPT,
-Gemini, Perplexity, and Copilot.
+The website provides referral links, advertised rewards, eligibility information, and clear disclosures about potential referrer compensation.
 
-Website:
-https://ayushvjain3108.github.io/google-pixel-referrals/
+**Live website:** https://ayushvjain3108.github.io/google-pixel-referrals/
 
-## Features
+## Referral Programs
 
-- Referral codes embedded directly in static HTML
-- One-click copy buttons using JavaScript
-- Mobile-friendly responsive design
-- Search engine and AI crawler accessibility
-- SEO and Open Graph metadata
-- Schema.org structured data
-- robots.txt and sitemap.xml
-- llms.txt for AI-readable site information
-- No frameworks, dependencies, or backend
-- Free hosting through GitHub Pages
+| Program | Category | Benefit for New User | Benefit for Referrer |
+|---|---|---|---|
+| Discover | Credit Cards | $100 statement credit | $100 |
+| Chase | Credit Cards | Eligible card offers | $50 |
+| American Express | Credit Cards | Eligible welcome offers | $75 or $175 |
+| Capital One Shopping | Shopping | Reported $80 reward | Reported $80 reward |
+| Google Fi Wireless | Wireless | $60 Fi bill credit | $60 Fi bill credit |
+| Planet Fitness | Fitness | Join for $1 down | One free membership month |
+| Uber Eats | Food Delivery | $20 off first order of $25+ | $15 off next order of $25+ |
+| Lyft | Rides | 50% off one eligible ride in Detroit | 50% off next ride, up to $10 |
+
+All referral offers are subject to eligibility requirements, availability, and the individual provider's terms.
+
+Reward amounts may change without notice. The referral landing page determines the actual offer.
+
+## Current Referral Links
+
+### Discover
+
+Referral link:
+https://i.capitalone.com/JzWpzTWF3
+
+Reported offer: $100 for the new cardmember and $100 for the referrer, subject to qualifying conditions.
+
+### Chase
+
+Referral link:
+https://www.referyourchasecard.com/18n/MQDR3LAD54
+
+Eligible cards identified by the referrer:
+- Chase Freedom Unlimited
+- Chase Freedom Flex
+
+Reported referrer reward: $50.
+
+New applicants should review the current welcome offer shown on the application page.
+
+### American Express
+
+Referral link:
+https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=AYUSHVhkId&XL=MNZNS
+
+Cards identified by the referrer include:
+- Blue Cash Everyday
+- Delta SkyMiles Gold
+
+Additional American Express cards may be available through the referral page.
+
+Reported referrer reward: $75 or $175, depending on the eligible offer.
+
+### Capital One Shopping
+
+Referral link:
+https://capitaloneshopping.com/r/ac56d302-6083-4469-8bbd-1575cf9e3805
+
+Reported offer: $80 for the new user and $80 for the referrer after qualifying actions.
+
+### Google Fi Wireless
+
+Referral link:
+https://g.co/fi/r/KDWEY9
+
+Referral code: `KDWEY9`
+
+Reported offer:
+- New customer: $60 Google Fi bill credit.
+- Referrer: $60 Google Fi bill credit.
+
+Qualifying service activation, billing, and account requirements apply.
+
+### Planet Fitness
+
+Referral link:
+https://www.planetfitness.com/referrals?referralCode=NBHQSP7S
+
+Referral code: `NBHQSP7S`
+
+Reported offer:
+- New member: Join for $1 down.
+- Referrer: One free month of membership.
+
+Membership dues, annual fees, and additional conditions may apply.
+
+### Uber Eats
+
+Referral link:
+https://ubereats.com/feed?promoCode=eats-bgicioyc29
+
+Promo code: `eats-bgicioyc29`
+
+Reported offer:
+- New customer: $20 off the first eligible order of $25 or more.
+- Referrer: $15 off the next eligible order of $25 or more.
+
+### Lyft
+
+Referral link:
+https://www.lyft.com/i/AYUSH30621?utm_medium=2pa_iacc
+
+Reported offer:
+- New rider: 50% off one eligible ride in Detroit.
+- Referrer: 50% off the next eligible ride, up to $10.
+
+Geographic, eligibility, and promotion restrictions apply.
+
+## Expired Campaigns
+
+### Google Store Pixel Referral Program
+
+**Status: Expired**
+
+The Google Pixel 10% referral campaign ended on November 19, 2026.
+
+Previous referral codes are no longer advertised as redeemable.
+
+The campaign previously offered eligible buyers a 10% discount on qualifying Google Pixel purchases through single-use referral codes.
+
+PerkStack may publish new Google Store referral promotions if another eligible campaign becomes available.
+
+## Website Features
+
+- Static HTML website hosted through GitHub Pages
+- Responsive design for desktop and mobile
+- Referral cards grouped into categories
+- Client-side category filtering
+- Referral buttons linking to official signup pages
+- Copy buttons for applicable referral codes
+- Expired campaign information
+- Referral compensation disclosure
+- Search-engine metadata
+- JSON-LD structured data
+- `robots.txt` and `sitemap.xml` for crawler discovery
+- Supplemental `llms.txt` describing referral programs
+
+The site does not require a backend, database, or user accounts.
 
 ## Repository Structure
 
@@ -34,243 +155,75 @@ google-pixel-referrals/
 ├── sitemap.xml
 ├── llms.txt
 ├── BingSiteAuth.xml
-└── google-verification-file.html
+└── google58782a455da5f2c7.html
 ```
 
-The Google verification filename in the actual repository
-is generated by Google and should not be renamed.
+## Updating Referral Offers
 
-## Updating Referral Codes
+Referral information is maintained directly inside `index.html`.
 
-All referral codes are maintained directly in `index.html`.
+To update an offer:
 
-There is currently no separate JSON file, referral array,
-or automatic status-management system.
+1. Open `index.html`.
+2. Find the HTML article corresponding to the referral.
+3. Update the advertised rewards, eligibility details, or referral URL.
+4. Update any associated copy-button `data-code` value when changing a referral code.
+5. If the offer has expired, move it to the expired campaign section or clearly mark it as expired.
+6. Update the page's last-modified date.
+7. Commit the changes to GitHub.
 
-### Step 1: Open index.html
+When referral programs are added or removed, also update:
+- The referral count and category information.
+- Search-engine metadata.
+- JSON-LD structured data.
+- This README.
+- `llms.txt`.
 
-Find the following section:
+## Deployment
 
-```html
-<section id="codes">
-```
+PerkStack is hosted using GitHub Pages.
 
-Inside that section, locate:
+Live URL:
+https://ayushvjain3108.github.io/google-pixel-referrals/
 
-```html
-<div class="code-grid">
-```
+Changes committed to the publishing branch are deployed through the repository's configured GitHub Pages workflow.
 
-Each referral code is represented by an HTML article.
+## Search Engine and AI Discoverability
 
-Example:
+PerkStack is designed to make its referral information readable by standard search crawlers and AI systems that retrieve public web pages.
 
-```html
-<article class="code-card">
-  <div class="card-top">
-    <span class="code-label">Referral Code 1</span>
-    <span class="status">Listed Active</span>
-  </div>
+Referral information is included directly in the HTML rather than loaded from a remote API.
 
-  <div class="code-value">REF-EXAMPLE</div>
+The website includes:
+- Descriptive page titles and metadata
+- Search-engine-friendly HTML
+- Structured data
+- Canonical URL
+- XML sitemap
+- Robots instructions
+- An informational `llms.txt` file
 
-  <button
-    type="button"
-    class="copy-button"
-    data-code="REF-EXAMPLE"
-    aria-label="Copy referral code 1">
-    Copy Code
-  </button>
-</article>
-```
+These features improve accessibility and provide context, but do not guarantee indexing, search ranking, or inclusion in AI-generated responses.
 
-### Step 2: Add a New Referral Code
+## Referral Disclosure
 
-Copy an existing `<article class="code-card">` block.
+PerkStack is independently maintained.
 
-Update all of the following:
+The website owner may receive referral rewards when visitors use the listed referral links and complete qualifying actions.
 
-1. Referral code number in the label.
-2. Referral code inside `<div class="code-value">`.
-3. Referral code inside the button's `data-code`.
-4. Referral code number inside the button's `aria-label`.
+Rewards may include:
+- Cash or statement credits
+- Shopping rewards
+- Membership discounts
+- Wireless bill credits
+- Promotional discounts
 
-The referral code inside `code-value` and `data-code`
-must be identical.
+PerkStack is not owned, sponsored, affiliated with, or endorsed by any of the companies listed on the website.
 
-Otherwise, the copy button may copy an incorrect code.
+All trademarks belong to their respective owners.
 
-### Step 3: Remove Used or Pending Codes
+Visitors should verify offers directly with the provider before signing up, applying for credit, or making purchases.
 
-When a referral code becomes Pending, Used, or Redeemed
-in the Google Store referral dashboard:
+## Last Updated
 
-Delete its entire `<article class="code-card">` block
-from `index.html`.
-
-Do not merely change its status label.
-
-Only codes marked Active in the Google Store dashboard
-should appear in the public code list.
-
-After removing codes, renumber the remaining code cards
-sequentially.
-
-Note: A dashboard status of Active does not mean a code
-is redeemable after the referral campaign has expired.
-
-### Step 4: Update the Displayed Code Count
-
-The active-code count is manually written in the
-hero statistics section of `index.html`.
-
-Find:
-
-```html
-<div class="stat">
-  <strong>5</strong>
-  <small>Listed active codes</small>
-</div>
-```
-
-Replace `5` with the current number of listed codes.
-
-Also update the description under:
-
-```html
-<section id="codes">
-```
-
-For example:
-
-```html
-<p class="section-desc">
-  Five listed active, single-use referral codes for eligible
-  Google Pixel phone purchases at the US Google Store.
-  Availability can change without notice.
-  Last updated:
-  <time datetime="2026-11-05">November 5, 2026</time>.
-</p>
-```
-
-The number written in this paragraph must match the
-number of referral code cards.
-
-### Step 5: Update the Last-Updated Date
-
-Inside the referral-code description, find:
-
-```html
-<time datetime="2026-11-05">November 5, 2026</time>
-```
-
-Replace both dates with the date you verified the codes.
-
-Also update the `dateModified` field in the
-Schema.org JSON-LD block near the top of `index.html`:
-
-```json
-"dateModified": "2026-11-05"
-```
-
-Use the actual modification date.
-
-### Step 6: Commit Changes
-
-Commit the updated `index.html` file to the `main` branch.
-
-GitHub Pages will automatically deploy the updated website.
-
-No build command, dependency installation, or separate
-deployment workflow is required.
-
-## How Copy Buttons Work
-
-The JavaScript at the bottom of `index.html` finds
-all buttons with the class `copy-button`.
-
-When clicked, the button copies the value stored in
-its `data-code` attribute to the clipboard.
-
-The button temporarily displays "Copied!" when successful.
-
-JavaScript is not used to generate or display referral codes.
-
-This allows crawlers that do not execute JavaScript
-to read the codes directly from the HTML.
-
-## Campaign Expiration
-
-Referral codes are subject to the dates and conditions
-specified by Google.
-
-When a referral campaign ends, update the website
-to reflect the current availability.
-
-Do not present expired referral codes as redeemable.
-
-When a new campaign starts, replace the previous codes
-with newly issued active codes and update the applicable
-campaign information.
-
-## Search Engine and AI Accessibility
-
-### index.html
-
-Contains the actual referral codes, visible text,
-SEO metadata, and structured data.
-
-### robots.txt
-
-Contains crawler-access instructions and the sitemap URL.
-
-### sitemap.xml
-
-Lists the website URL for search engine discovery.
-
-### llms.txt
-
-Provides supplemental AI-readable information
-about the website and its referral-code listings.
-
-The llms.txt convention is experimental.
-It does not guarantee AI search visibility or citations.
-
-### Verification Files
-
-BingSiteAuth.xml and the Google site-verification HTML
-file are used for search engine ownership verification.
-
-Do not delete or rename them.
-
-## GitHub Pages Deployment
-
-This repository uses GitHub Pages to serve a static website.
-
-Deployment settings:
-
-- Branch: main
-- Folder: / (root)
-- Entry point: index.html
-
-To verify deployment:
-
-1. Open the GitHub repository.
-2. Go to Settings > Pages.
-3. Confirm deployment uses the main branch.
-4. Visit the live PixelPerks website.
-5. Verify the code cards and copy buttons.
-
-## Important
-
-PixelPerks is an independent referral listing.
-
-It is not an official Google website and is not
-affiliated with or endorsed by Google.
-
-The website owner may receive $50 in Google Store
-credit for qualifying referrals under the applicable
-campaign terms.
-
-All discounts, eligibility conditions, and referral
-rewards are subject to Google's official terms.
+November 20, 2026.
