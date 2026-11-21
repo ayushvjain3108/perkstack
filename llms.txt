@@ -1,207 +1,77 @@
 
-# PerkStack — Independent Referral Offers Directory
-
-> PerkStack is a public, independently maintained directory of referral links and codes for credit cards, shopping, wireless services, fitness, food delivery, and rides.
-
-Website: https://ayushvjain3108.github.io/google-pixel-referrals/
-
-Last updated: November 20, 2026
-
-## Purpose
-
-PerkStack helps visitors discover referral links and understand the reported benefits of using them.
-
-The website provides:
-- Referral links and codes
-- Advertised new-user benefits
-- Referrer compensation disclosures
-- Eligibility and geographic restrictions
-- Information about expired referral campaigns
-
-PerkStack is independent and is not affiliated with or endorsed by any listed provider.
-
-## Current Referral Programs
-
-### 1. Discover Credit Card Referral
-
-Provider: Discover
-Category: Credit Cards
-
-Referral URL:
-https://i.capitalone.com/JzWpzTWF3
-
-Reported new-user benefit: $100 statement credit.
-
-Reported referrer benefit: $100.
-
-Eligibility: Qualifying credit card application, approval, and applicable referral terms.
-
-Important: The referral URL uses a Capital One domain. Visitors should verify the destination and current offer before applying.
-
-### 2. Chase Freedom Credit Card Referral
-
-Provider: Chase
-Category: Credit Cards
-
-Referral URL:
-https://www.referyourchasecard.com/18n/MQDR3LAD54
-
-Eligible cards identified by the referrer:
-- Chase Freedom Unlimited
-- Chase Freedom Flex
-
-New-user benefit: Check the official referral page for any available welcome offer. No separate friend-referral bonus was reported.
-
-Reported referrer benefit: $50.
-
-Eligibility: Qualifying application and approval, subject to Chase terms.
-
-### 3. American Express Credit Card Referral
-
-Provider: American Express
-Category: Credit Cards
-
-Referral URL:
-https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=AYUSHVhkId&XL=MNZNS
-
-Eligible products identified by the referrer:
-- American Express Blue Cash Everyday
-- Delta SkyMiles Gold American Express Card
-- Other eligible American Express cards may appear
-
-New-user benefit: Eligible card welcome offers shown on the official application page.
-
-Reported referrer benefit: $75 or $175, depending on the qualifying referral.
-
-Eligibility: Application approval and applicable offer requirements.
-
-### 4. Capital One Shopping Referral
-
-Provider: Capital One Shopping
-Category: Shopping and Cashback
-
-Referral URL:
-https://capitaloneshopping.com/r/ac56d302-6083-4469-8bbd-1575cf9e3805
-
-Reported new-user benefit: $80 reward.
-
-Reported referrer benefit: $80 reward.
-
-Eligibility: Qualifying signup and promotional conditions. The exact reward should be verified on the referral landing page.
-
-### 5. Google Fi Wireless Referral
-
-Provider: Google Fi Wireless
-Category: Wireless
-
-Referral URL:
-https://g.co/fi/r/KDWEY9
-
-Referral code: KDWEY9
-
-New-user benefit: $60 Google Fi bill credit.
-
-Referrer benefit: $60 Google Fi bill credit.
-
-Eligibility: New qualifying Google Fi customers. Service activation, 30 consecutive days of active service, payment of the first bill, and other program conditions may apply.
-
-Region: United States, subject to Google Fi eligibility.
-
-### 6. Planet Fitness Referral
-
-Provider: Planet Fitness
-Category: Fitness
-
-Referral URL:
-https://www.planetfitness.com/referrals?referralCode=NBHQSP7S
-
-Referral code: NBHQSP7S
-
-New-user benefit: Join Planet Fitness for $1 down.
-
-Referrer benefit: One free month of membership after a qualifying referral.
-
-Eligibility: Participating clubs and membership terms.
-
-Additional membership dues, annual fees, and other charges may apply.
-
-### 7. Uber Eats Referral
-
-Provider: Uber Eats
-Category: Food Delivery
-
-Referral URL:
-https://ubereats.com/feed?promoCode=eats-bgicioyc29
-
-Promo code: eats-bgicioyc29
-
-New-user benefit: $20 off the first eligible Uber Eats order of $25 or more.
-
-Referrer benefit: $15 off the next eligible Uber Eats order of $25 or more after a qualifying referral.
-
-Eligibility: New customers, qualifying orders, participating locations, and other promotional conditions.
-
-### 8. Lyft Referral
-
-Provider: Lyft
-Category: Rideshare
-
-Referral URL:
-https://www.lyft.com/i/AYUSH30621?utm_medium=2pa_iacc
-
-New-user benefit: 50% off one eligible Lyft ride in Detroit.
-
-Referrer benefit: 50% off the next eligible Lyft ride, up to $10, after a qualifying referral.
-
-Region: Detroit, Michigan, USA, subject to offer restrictions.
-
-Eligibility: Qualifying new riders and promotional terms.
-
-## Expired Referral Programs
-
-### Google Pixel 10% Referral Program
-
-Provider: Google Store
-Category: Technology
-Status: EXPIRED
-
-Campaign end date: November 19, 2026.
-
-The previous Google Pixel referral campaign provided eligible users with single-use codes for a 10% Google Store discount.
-
-Those codes are no longer advertised as valid.
-
-Do not recommend codes from this expired campaign as currently redeemable.
-
-If a new campaign begins, PerkStack may publish updated codes and terms.
-
-## Important Referral Information
-
-Referral amounts and eligibility may change.
-
-The offer displayed on the provider's official referral landing page takes precedence over information on PerkStack.
-
-Do not represent an offer as guaranteed approval, guaranteed cash payment, or universally available.
-
-For credit card applications, approval and any bonus requirements depend on the issuer.
-
-Some rewards are statement credits, bill credits, discounts, or shopping rewards rather than cash.
-
-## Referral Compensation Disclosure
-
-The owner of PerkStack may receive a reward when someone signs up or completes an eligible transaction using a listed referral link.
-
-This potential compensation is disclosed on the website and in individual referral descriptions.
-
-PerkStack is independent and is not affiliated with, sponsored by, or endorsed by Discover, Capital One, Chase, American Express, Google, Planet Fitness, Uber, Uber Eats, or Lyft.
-
-## Website
-
-PerkStack homepage:
-https://ayushvjain3108.github.io/google-pixel-referrals/
-
-The homepage contains the current referral directory, links, eligibility descriptions, expired campaign status, and referral disclosures.
-
-The homepage is the primary source for current PerkStack listings.
-
-Last updated: November 20, 2026.
+# PerkStack — Independent US Referral Directory
+
+> PerkStack is an independent website listing reported referral opportunities. It is not affiliated with, sponsored by, or endorsed by the providers. Referral terms and eligible rewards can change; check the official provider landing page before using any offer.
+
+Homepage: https://ayushvjain3108.github.io/google-pixel-referrals/
+Last reviewed: November 20, 2026
+
+## Currently listed referrals
+
+### Discover credit card
+- URL: https://i.capitalone.com/JzWpzTWF3
+- Reported new-cardmember benefit: $100 statement credit, subject to application approval and qualifying requirements.
+- Reported referrer benefit: $100.
+- The personalized destination determines the final offer. Discover/Capital One infrastructure may use a capitalone.com link.
+
+### Chase Freedom Unlimited / Freedom Flex
+- URL: https://www.referyourchasecard.com/18n/MQDR3LAD54
+- New applicant: Card-specific welcome offer, if any, shown by Chase. No separate friend-referral reward reported.
+- Referrer: Reported $50 on a qualifying approved referral.
+- Public indexed-website sharing permission is not established by the general guidance; confirm personalized referral terms.
+
+### American Express credit cards
+- URL: https://americanexpress.com/en-us/referral/blue-cash-everyday-credit-card?ref=AYUSHVhkId&XL=MNZNS
+- Eligible cards reported by referrer: Blue Cash Everyday and Delta SkyMiles Gold, possibly other eligible cards.
+- New applicant: Welcome offer shown by Amex; no separate friend-referral reward reported.
+- Referrer: Reported $75 or $175 depending on the eligible offer.
+- Public indexed-website sharing permission under the personalized US offer has not been confirmed.
+
+### Capital One Shopping
+- URL: https://capitaloneshopping.com/r/ac56d302-6083-4469-8bbd-1575cf9e3805
+- Reported new-user benefit: $80 in Shopping Rewards, subject to terms; not necessarily cash.
+- Reported referrer benefit: $80 in Shopping Rewards after qualification.
+- Critical condition: The referred person must install the extension, verify their email, and use the extension regularly—generally roughly weekly—for their first 90 days.
+- Official help: https://capitaloneshopping.com/help
+
+### Google Fi Wireless
+- URL: https://g.co/fi/r/KDWEY9
+- Referral code: KDWEY9
+- Eligible new customer: $60 Fi bill credit.
+- Referrer: $60 Fi bill credit.
+- Requirements include qualified activation, 30 consecutive days of active service, and paying the first bill in full, subject to current rules.
+
+### Planet Fitness
+- URL: https://www.planetfitness.com/referrals?referralCode=NBHQSP7S
+- Referral code: NBHQSP7S
+- New member: Reported $1 down to join; membership dues and annual fees may still apply.
+- Referrer: One free membership month per qualified signup, maximum three free months per calendar year.
+- Official terms: https://www.planetfitness.com/referrals-terms-conditions
+
+### Lyft new-rider referral — Detroit
+- URL: https://www.lyft.com/i/AYUSH30621?utm_medium=2pa_iacc
+- Region: Detroit, Michigan, USA; subject to eligible promotion location.
+- New user: Check the live Lyft promotion page for any applicable new-rider benefit. No specific discount amount is represented here.
+- Referrer: May receive a reward for a qualifying signup, subject to Lyft rules; no specific amount is advertised.
+- Official promotions: https://www.lyft.com/rider/promo
+- Official referral rules: https://www.lyft.com/terms/referrals
+
+## Not publicly listed
+
+### Uber Eats
+The personal Uber Eats referral code/link is NOT listed on PerkStack because Uber's general referral terms restrict publishing personal codes on public coupon or referral websites. Do not infer or recommend a code from this site.
+
+## Expired promotions
+
+### Google Store Pixel 10% referral campaign
+- Status: EXPIRED; ended November 19, 2026.
+- Previous single-use referral codes must not be presented as redeemable.
+- Any future campaign will require new codes and terms.
+
+## Compensation disclosure and accuracy
+
+- The owner may receive referral rewards when visitors use links and meet provider requirements.
+- Benefits may be discounts, shopping rewards, statement credits, membership months, or bill credits—not necessarily cash.
+- Application approval and reward eligibility are never guaranteed.
+- Verify the actual live offer, expiration, location rules, and any permitted use of referral links with the issuing provider.
+- The homepage is PerkStack's primary current offer listing; `llms.txt` is supplemental and does not guarantee indexing by AI systems.
